@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="60015743-4" name="TijdProfiel" version="1.0" notes="TijdProfiel"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="NietOpeenvolgendeVersies" notes="" cx="163" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0" generalizes="TemporeleUitspraak" baseStereotypes="TemporeleUitspraak"/>
+			<Stereotype name="HuidigeVersie" notes="" cx="90" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0" generalizes="TemporeleUitspraak" baseStereotypes="TemporeleUitspraak"/>
+			<Stereotype name="GeldigeTijd" notes="" cx="90" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0" generalizes="SoortTijd" baseStereotypes="SoortTijd"/>
+			<Stereotype name="OpeenvolgendeVersies" notes="" cx="144" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0" generalizes="TemporeleUitspraak" baseStereotypes="TemporeleUitspraak"/>
+			<Stereotype name="TemporeleUitspraak" notes="" cx="127" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0" isAbstract="true">
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="isActive" value=""/>
+					</Apply>
+					<Apply type="Attribute"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="SoortTijd" notes="" cx="90" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0" isAbstract="true">
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="isActive" value=""/>
+					</Apply>
+					<Apply type="Attribute"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="TransactieTijd" notes="" cx="90" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0" generalizes="SoortTijd" baseStereotypes="SoortTijd"/>
+			<Stereotype name="GebruikersGedefinieerdeTijd" notes="" cx="170" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0" generalizes="SoortTijd" baseStereotypes="SoortTijd"/>
+			<Stereotype name="TemporeelDatatype" notes="" cx="121" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0" isAbstract="true">
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="isActive" value=""/>
+					</Apply>
+					<Apply type="Attribute"/>
+				</AppliesTo>
+			</Stereotype>
+			<Stereotype name="Moment" notes="" cx="90" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0" generalizes="TemporeelDatatype" baseStereotypes="TemporeelDatatype"/>
+			<Stereotype name="Interval" notes="" cx="90" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0" generalizes="TemporeelDatatype" baseStereotypes="TemporeelDatatype"/>
+			<Stereotype name="Periode" notes="" cx="90" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0" generalizes="TemporeelDatatype" baseStereotypes="TemporeelDatatype"/>
+		</Stereotypes>
+		<TaggedValueTypes/>
+	</Content>
+</UMLProfile>
