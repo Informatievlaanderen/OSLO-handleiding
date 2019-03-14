@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<UMLProfile profiletype="uml2">
+	<Documentation id="3DFB6A63-D" name="OSLO-UMLprofiel" version="1.0" notes="OSLO-UMLprofiel"/>
+	<Content>
+		<Stereotypes>
+			<Stereotype name="OSLO-Class" notes="" cx="202" cy="127" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Class">
+						<Property name="isActive" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="uri" type="URI" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="OSLO-Package" notes="" cx="158" cy="88" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Package">
+						<Property name="URI" value=""/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="title-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="abstract-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="issued" type="Date" description="" unit="" values="" default=""/>
+					<Tag name="uri" type="URI" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="OSLO-DataType" notes="" cx="202" cy="127" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="DataType"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="uri" type="URI" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="OSLO-Enumeration" notes="" cx="136" cy="79" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Enumeration"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="ap-codelist" type="URI" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="OSLO-Association" notes="" cx="202" cy="127" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Association">
+						<Property name="compositionKind" value="none"/>
+						<Property name="direction" value="Bi-Directional"/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="uri" type="URI" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="OSLO-AssociationClass" notes="" cx="202" cy="127" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="AssociationClass">
+						<Property name="direction" value="Source -&gt; Destination"/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="uri" type="URI" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="OSLO-Attribute" notes="" cx="202" cy="127" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Attribute"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="uri" type="URI" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="OSLO-PrimitiveType" notes="" cx="202" cy="127" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="PrimitiveType"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="uri" type="URI" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="OSLO-AssociationEnd" notes="" cx="202" cy="127" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="AssociationEnd"/>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="uri" type="URI" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="OSLO-Aggregation" notes="" cx="202" cy="127" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Aggregation">
+						<Property name="direction" value="Source -&gt; Destination"/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="uri" type="URI" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="OSLO-Composition" notes="" cx="202" cy="127" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Composition">
+						<Property name="direction" value="Source -&gt; Destination"/>
+					</Apply>
+				</AppliesTo>
+				<TaggedValues>
+					<Tag name="label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-definition-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-label-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="ap-usageNote-nl" type="String" description="" unit="" values="" default=""/>
+					<Tag name="uri" type="URI" description="" unit="" values="" default=""/>
+				</TaggedValues>
+			</Stereotype>
+			<Stereotype name="OSLO-Generalization" notes="" cx="98" cy="70" bgcolor="-1" fontcolor="-1" bordercolor="-1" borderwidth="-1" hideicon="0">
+				<AppliesTo>
+					<Apply type="Generalization">
+						<Property name="direction" value="Source -&gt; Destination"/>
+						<Property name="isSubstitutable" value=""/>
+					</Apply>
+				</AppliesTo>
+			</Stereotype>
+		</Stereotypes>
+		<TaggedValueTypes/>
+	</Content>
+</UMLProfile>
