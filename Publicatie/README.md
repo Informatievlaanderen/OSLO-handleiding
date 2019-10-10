@@ -1,6 +1,6 @@
 # Publicatie
 #### Inhoud
-* Hoe specs genereren uit UML-diagram
+* Hoe specs genereren uit UML-diagram?
 * Hoe zit het versiebeheer ineen?
 * Configuratie?
 #### Resources
