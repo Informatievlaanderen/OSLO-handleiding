@@ -7,7 +7,7 @@
 * [URI](URI)
 * [Proces en methode](Proces&Methode)
 * [Modellering](Modellering)
-* [EA en repo](EA&REPO)
+* [EA en repo](EA&Repo)
 * [UML2RDF](UML2RDF)
 * [Mapping](Mapping)
 * [Publicatie](Publicatie)
