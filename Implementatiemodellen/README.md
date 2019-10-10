@@ -1,6 +1,6 @@
 # Implementatiemodellen
 #### Inhoud
-* implementatiemodel afleiden?
+* Hoe implementatiemodel afleiden?
 * Historische data? 
 * Andere platformen? 
 #### Resources
