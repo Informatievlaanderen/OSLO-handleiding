@@ -1,4 +1,4 @@
-# URI
+# EA en repo
 #### Inhoud
 * Hoe modelleren in praktijk in EA en in de EA repository?
 #### Resources
