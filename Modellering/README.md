@@ -7,4 +7,5 @@
 3. Bijbehorende self-check: https://github.com/Informatievlaanderen/OSLO-handleiding/blob/master/Modellering/OSLO-modelleringsregels.xlsx
 #### Opmerking
 Doelpubliek: Modelleerder.
+
 Over 1: Nog opmerkingen te verwerken. Geen officiële verwijzing op website.
