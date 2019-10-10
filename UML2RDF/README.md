@@ -9,4 +9,4 @@
 * Doelpubliek: ontwikkelaar toolchain, modelleerder… .
 * Over 1: Te cryptisch en niet meer up-to-date.
 * Over 2: Te vervolledigen. Opzet vereenvoudigen.
-* Over 3: Te integreren in 1.
+* Over 3: Te integreren in 2.
