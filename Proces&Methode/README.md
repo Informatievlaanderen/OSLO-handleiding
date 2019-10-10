@@ -1,4 +1,4 @@
-# Proces&Methode
+# Proces en methode
 #### Inhoud
 * Welk proces moet doorlopen worden om tot een OSLO-standaard te komen?
 * Scenario’s?
