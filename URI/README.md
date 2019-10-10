@@ -9,4 +9,5 @@
 3. Toepassing & subjectpagina’s: https://informatievlaanderen.github.io/handreikingOslo/architectuur.html#sec1
 #### Opmerking
 Doelpubliek: alle rollen.
+
 Over 3: Nogal oppervlakkig.
