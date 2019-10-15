@@ -11,3 +11,4 @@
 * Over 1: Huidige versie nog onvolledig, insteek is teveel compliance. Moeten kleine demo-pakketten worden.
 * Over 2: Recent gereactiveerd, nog niet opgenomen in 1.
 * Over 2 en 3: Bij te werken, integreren in implementatiehandleiding?
+* Lijst met bestaande applicaties (kunnen POC's zijn) ontbreekt.
