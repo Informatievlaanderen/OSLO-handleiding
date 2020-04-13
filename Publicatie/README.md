@@ -1,4 +1,7 @@
 # Publicatie
+
+***Inhoud op https://github.com/Informatievlaanderen/OSLO-toolchain/tree/master/doc-user kan na review de functie van deze directory overnemen. Bevat overigens een vereenvoudiging van het branching schema dat zou kunnen worden afgeleid worden uit Resource 1 (hieronder vermeld).***
+
 #### Inhoud
 * Hoe specs genereren uit UML-diagram?
 * Hoe zit het versiebeheer ineen?
