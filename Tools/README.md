@@ -4,7 +4,7 @@
 * Architectuur & deploy van de automatische publicatie? 
 #### Resources
 1. Overzicht https://informatievlaanderen.github.io/handreikingOslo/tooling.html.
-2. EA
+2. EA: https://github.com/Informatievlaanderen/OSLO-handleiding/blob/master/Tools/README-EA.md
 3. OSLO-SpecificationGenerator: https://github.com/Informatievlaanderen/OSLO-SpecificationGenerator/blob/master/README.md/
 4. OSLO-Playground: https://github.com/Informatievlaanderen/OSLO-playground/blob/master/README.md.
 5. OSLO-EA2RDF: https://github.com/Informatievlaanderen/OSLO-EA-to-RDF/blob/master/README.md
